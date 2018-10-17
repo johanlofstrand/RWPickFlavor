@@ -17,10 +17,10 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Johan Löfstrand" => "johan.lofstrand@gmail.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "https://github.com/johanlofstrand/unity_objc_swift_bridging_test"
+s.homepage = "https://github.com/johanlofstrand/RWPickFlavor"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/johanlofstrand/unity_objc_swift_bridging_test.git",
+s.source = { :git => "https://github.com/johanlofstrand/RWPickFlavor.git",
 :tag => "#{s.version}" }
 
 # 7
